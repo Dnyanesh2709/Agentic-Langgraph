@@ -9,7 +9,7 @@
 
 ---
 
-⚡ **Agentic AI Project** is a cutting-edge LangGraph + LangChain-powered application that allows you to build, test, and deploy AI agents with ease.
+⚡ **Agentic Langgraph** is a cutting-edge LangGraph + LangChain-powered application that allows you to build, test, and deploy AI agents with ease.
 
 ## ✨ Features
 
@@ -51,9 +51,7 @@ streamlit run app.py
 
 Pull requests are welcome! For major changes, please open an issue first.
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
 ---
 
