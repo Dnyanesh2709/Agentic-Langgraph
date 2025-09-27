@@ -1,11 +1,10 @@
 # 🚀 Agentic AI Project
 
-![Agentic AI Banner](A_digital_graphic_design_showcases_the_title_"AGEN.png)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red?logo=streamlit)
 ![LangChain](https://img.shields.io/badge/LangChain-0.2+-yellow?logo=chainlink)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ---
 
@@ -43,9 +42,7 @@ TAVILY_API_KEY=your_tavily_api_key
 streamlit run app.py
 ```
 
-## 📸 Preview
 
-![App Preview](https://placehold.co/1000x500?text=App+Preview)
 
 ## 🤝 Contributing
 
